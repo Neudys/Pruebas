@@ -1,0 +1,30 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.div__main{
+    background: #3FCAA5;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div__h1{
+    font-size: 100px;
+    background: #222222;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 20px;
+    font-weight: 3000;
+    margin-bottom: 0;
+}
+
+.div__p{
+    margin-top: 10px;
+    font-weight: 800;
+    border-bottom:3px solid #222222;
+    padding: 8px;
+    text-align: center;
+}
